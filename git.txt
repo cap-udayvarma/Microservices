@@ -1,0 +1,26 @@
+git pull
+git diff
+git reset --hard
+git pull origin develop
+
+
+git pul 
+git checkout -b " "
+
+git clone 
+
+git status
+git add..
+git commit -m " "
+git pullgit merge origin develop
+git push
+
+git status
+git diff
+git add.
+git checkout -m " "
+git checkout develop
+git pull origin develop
+git fetch
+git checkout bug 
+git merge origin developgit push
